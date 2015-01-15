@@ -1,7 +1,7 @@
 Learning-IoT-IoTPlatform
 ========================
 
-Source code for the Internet of Things service platforms chapter of the book "Learning Internet of Things".
+Source code for the Internet of Things service platforms chapter of the book [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things).
 
 This chapter covers the basics of how to build services on the Internet of Things service platform Clayster. It shows this by reimplementing the **controller** project, and shows what benefits there are using such a platform.
 
