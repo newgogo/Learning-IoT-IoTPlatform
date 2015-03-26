@@ -11,7 +11,7 @@ The source code contains the following projects:
 |:------------------------------- |:---------- |
 |**Controller2**                   | The controller project, reimplemented to run under the Clayster Internet of Things service platform. It Controls the actuator based on input received from the sensor.|
 
-The project is developed in C# and compiled using [Xamarin](http://xamarin.com/). It is executed on a Raspberry Pi using [MONO](http://www.mono-project.com/). The project does not use any code specific to the Raspberry Pi, and can therefore be run on any system executing .NET code.
+The project is developed in C# and compiled using [Xamarin](http://xamarin.com/). It is executed on a Raspberry Pi or Raspberry Pi 2 using [MONO](http://www.mono-project.com/). The project does not use any code specific to the Raspberry Pi or Raspberry Pi 2, and can therefore be run on any system executing .NET code.
 
 To compile, the project needs you to download a distribution of [ClaysterSmall](http://www.clayster.com/downloads) platform and install it in `C:\Downloads\ClaysterSmall`. If you install it anywhere else, you must update and external references found in the `Controller2\Controller2.csproj` project file locally.
 
